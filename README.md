@@ -9,7 +9,7 @@ This document provides a list of tips, tools, and resources for coding / softwar
 #### Project setup and dependancy management
 
 Isolating dependencies is key to reproducible research. Using a virtual environment for each project is highly encouraged. The best tool often depends on the project's complexity. Some links to get you started
-- A comparison of dpendancy management tools, and when to use which: https://alan-turing-institute.github.io/rse-course/html/module06_software_projects/06_02_managing_dependencies.html#which-to-choose
+- A comparison of dependancy management tools, and when to use which: https://alan-turing-institute.github.io/rse-course/html/module06_software_projects/06_02_managing_dependencies.html#which-to-choose
 
 ### R
 
