@@ -30,6 +30,8 @@ Version control is important for tracking changes and collaborating effectively.
 - Git Workflow: A simple, effective approach is to create a new branch for each new feature or bugfix. When the work is complete, open a Pull Request on GitHub to merge the changes into the main branch. This allows for code review and discussion before changes are finalized.
 - GitHub Features: Beyond version control, GitHub provides useful project management tools. Using GitHub Issues to track tasks, bugs, and feature requests is a great way to keep project development organized and transparent.
 
+If you are new to GitHub and the worflow, checkout the short interactive courses on [GitHub Skills](https://skills.github.com/).
+
 ## IDEs and AI Assistants
 
 
